@@ -1,0 +1,11 @@
+---
+spring:
+  profiles:
+    active: us
+  application:
+    name: cloudclient-1
+  cloud:
+    config:
+      uri:http://localhost:8888
+server:
+  port: 8002 

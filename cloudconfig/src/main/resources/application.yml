@@ -7,4 +7,4 @@ spring:
           uri: https://github.com/sharathh/springcl.git
           searchPaths: config
 server:
-  port: 8001
+  port: 8888
