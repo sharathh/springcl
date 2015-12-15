@@ -1,8 +1,5 @@
 package com.example.spring.cloud;
 
-/**
- * Created by magnus on 05/03/15.
- */
 public class RecommendationSummary {
 
     private int recommendationId;
